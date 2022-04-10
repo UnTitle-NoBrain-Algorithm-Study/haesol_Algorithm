@@ -10,3 +10,4 @@ def credit(string):
 if __name__ == "__main__":
     string = input()
     print(credit(string))
+    
